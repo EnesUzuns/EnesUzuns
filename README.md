@@ -2,7 +2,7 @@
 <h3 align="center">A passionate junior full stack developer from Turkey</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,mysql,cs,dotnet,php,py,nodejs,ts,react,figma,xd" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,mysql,cs,dotnet,php,py,nodejs,ts,react,nextjs,figma,xd" />
   </a>
 </p>
 
